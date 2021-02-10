@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:25:44.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.0" etag="81Sl50DxFxqe8Kw7yh2u" type="github"><diagram id="GmuNLP6xerNkSI-mFXWf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:41:33.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Hl7odhWAxMi5RoMnvXm7" version="14.3.0" type="github">
+  <diagram id="GmuNLP6xerNkSI-mFXWf" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-1" value="My Service: pending&lt;br&gt;case assignment: none" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-5" target="_d2srG08cIoOzGEow2Y7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-5" value="&lt;span&gt;memeber: Register for legal service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-7" value="Super Admin assign a&amp;nbsp; lawyer&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-10" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-5" target="_d2srG08cIoOzGEow2Y7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="290" as="sourcePoint" />
+            <mxPoint x="70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-11" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="290" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-12" value="My Service: pending&lt;br&gt;case assignment: pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-19" target="_d2srG08cIoOzGEow2Y7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-19" target="_d2srG08cIoOzGEow2Y7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-19" value="lawyer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-25" value="Accept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-28" value="Decline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-29" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="400" as="sourcePoint" />
+            <mxPoint x="524" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-31" value="My Service: pending&lt;br&gt;case assignment: Decline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
