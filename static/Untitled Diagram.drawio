@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:59:22.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="cCzUm6W84Jtt3PjOzPxl" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:59:57.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="0AuPpSpTmlZz05DwRRM_" version="14.3.0" type="github">
   <diagram id="GmuNLP6xerNkSI-mFXWf" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
         <mxCell id="_d2srG08cIoOzGEow2Y7-48" value="My Service: Completed&lt;br&gt;case assignment: Completed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-52" value="In this loop, decline and pending status are for separate assigned lawyer.&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="_d2srG08cIoOzGEow2Y7-52" value="In this loop, decline and pending status are for separate assigned lawyer. (case assignment)&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
