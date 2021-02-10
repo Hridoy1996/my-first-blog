@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:41:33.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Hl7odhWAxMi5RoMnvXm7" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:52:35.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6mn6qfr9NyCzUAFTrdlh" version="14.3.0" type="github">
   <diagram id="GmuNLP6xerNkSI-mFXWf" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,32 +39,73 @@
         <mxCell id="_d2srG08cIoOzGEow2Y7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-19" target="_d2srG08cIoOzGEow2Y7-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-19" target="_d2srG08cIoOzGEow2Y7-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-19" value="lawyer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_d2srG08cIoOzGEow2Y7-19" value="assigned&lt;br&gt;lawyer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_d2srG08cIoOzGEow2Y7-20" target="_d2srG08cIoOzGEow2Y7-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-20" value="lawyer completed the task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_d2srG08cIoOzGEow2Y7-25" value="Accept" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-28" value="Decline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="390" width="40" height="20" as="geometry" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-31" value="My Service: pending&lt;br&gt;case assignment: Decline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-29" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="_d2srG08cIoOzGEow2Y7-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="400" as="sourcePoint" />
-            <mxPoint x="524" y="400" as="targetPoint" />
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="266" y="366" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="266" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_d2srG08cIoOzGEow2Y7-31" value="My Service: pending&lt;br&gt;case assignment: Decline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="_d2srG08cIoOzGEow2Y7-33" value="My Service: Ongoing&lt;br&gt;case assignment: Ongoing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-36" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.5" y="300" as="sourcePoint" />
+            <mxPoint x="509.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-28" value="Decline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-42" value="" style="endArrow=none;dashed=1;html=1;entryX=-0.033;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_d2srG08cIoOzGEow2Y7-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="419.5" as="sourcePoint" />
+            <mxPoint x="540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-43" value="My Service: Ongoing&lt;br&gt;case assignment: Completed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-44" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="297" as="sourcePoint" />
+            <mxPoint x="679.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-45" value="Super Admin Resolve the case" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-47" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="300" as="sourcePoint" />
+            <mxPoint x="860" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_d2srG08cIoOzGEow2Y7-48" value="My Service: Completed&lt;br&gt;case assignment: Completed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
